@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 형기상 블로그
-#은 &lt;h1&gt;태그를 대신한다.
+# WakeBro Github
 
-## #2개는 h2, #6개는 h6를 대신한다.
+<br/>
 
-- -는 목록
-  * -아래에 들여쓰기 + 별을 찍으면
-  * li태그처럼 여러가지 목록을 나열할 수 있다.
+# 🏠Who Am I?
+<strong>이름 : </strong>형기상
+<strong>나이 : </strong>28세 (1993.01)
+<strong>Email : </strong>wakebro119@naver.com
 
-<hr>
-이 외에도 HTML문법이 모두 사용 가능
+

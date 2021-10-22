@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <br/>
 
 # 🏠Who Am I?
-<strong>이름 : </strong>형기상
-<strong>나이 : </strong>28세 (1993.01)
-<strong>Email : </strong>wakebro119@naver.com
+<strong>이름 : </strong>형기상<br/>
+<strong>나이 : </strong>28세 (1993.01)<br/>
+<strong>Email : </strong>wakebro119@naver.com<br/>
 
 

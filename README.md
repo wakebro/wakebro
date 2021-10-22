@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wakebro/wakebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,4 +27,8 @@ Here are some ideas to get you started:
 <br/>
 
 # :book: Introduce
+
+어떻게 하면 가능할까를 생각하고 깨긋한 코드와 좋은 설계를 그려가며 전보다 나은 것을 만들기 위해 노력하는 개발자입니다.
+
+다양한 예시를 읽어보며 직접 경험을 해보고, 문서를 스스로 찾아보며 멈추지 않고 성장하기 위해 노력하고 있습니다.
 

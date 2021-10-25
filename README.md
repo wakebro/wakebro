@@ -13,17 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # WakeBro Github
-
-<br/>
-
-# :house: Who Am I
-
-<strong>이름 : </strong>형기상<br/>
-
-<strong>나이 : </strong>28세 (1993.01)<br/>
-
-<strong>Email : </strong>wakebro119@naver.com<br/>
-
 <br/>
 
 # :book: Introduce
@@ -37,8 +26,8 @@ Here are some ideas to get you started:
 ## <a href="https://github.com/wakebro">GitHub</a>
 - 개인/팀 프로젝트 저장소
 
-## <a href="https://wakebro.tistory.com/">BLOG</a>
-- 프로젝트 설명 및 포스팅
+## <a href="https://actually-sugar-fd1.notion.site/32b78a66f5864c8390ed17090b2317f4">자기 소개서</a>
+- 자기소개서
 <br/>
 
 # :file_folder: Experience
@@ -50,13 +39,6 @@ Here are some ideas to get you started:
 <br/>
 
  # :rocket: Portfolio
- ## CCS(Company Commute System)_사내 통근 시스템
- 사원들의 통근을 관리하고, 사원들끼리 소통할 수 잇는 서비스
- - 기간 : 2021.08.16 ~ 2021.08.30
- - JAVA, JSP를 사용하여 Back-end 로직을 이해
- - 데이터베이스의 테이블을 관리하고 기본 CRUD를 사용
- - <a href="https://github.com/wakebro/CCS-Team">깃허브</a>
-<br/>
 
 ## DAMOYO_모임/정모 주선 서비스
 자기계발 및 취미, 관심사 등을 공유할 수 있는 모임 기반 플랫폼 서비스
@@ -64,3 +46,12 @@ Here are some ideas to get you started:
  - JAVA, JSP를 사용하여 Back-end 로직을 이해
  - 데이터베이스의 테이블을 관리하고 기본 CRUD를 사용
  - <a href="https://github.com/wakebro/DAMOYO">깃허브</a>
+
+<br/>
+
+## CCS(Company Commute System)_사내 통근 시스템
+ 사원들의 통근을 관리하고, 사원들끼리 소통할 수 잇는 서비스
+ - 기간 : 2021.08.16 ~ 2021.08.30
+ - JAVA, JSP를 사용하여 Back-end 로직을 이해
+ - 데이터베이스의 테이블을 관리하고 기본 CRUD를 사용
+ - <a href="https://github.com/wakebro/CCS-Team">깃허브</a>

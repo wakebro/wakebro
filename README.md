@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 ## <a href="https://actually-sugar-fd1.notion.site/32b78a66f5864c8390ed17090b2317f4">자기 소개서</a>
 - 자기소개서
+
+## <a href="https://wakebro.tistory.com/">블로그</a>
+- 개인 공부 블로그
+
 <br/>
 
 # :file_folder: Experience
@@ -55,3 +59,28 @@ Here are some ideas to get you started:
  - JAVA, JSP를 사용하여 Back-end 로직을 이해
  - 데이터베이스의 테이블을 관리하고 기본 CRUD를 사용
  - <a href="https://github.com/wakebro/CCS-Team">깃허브</a>
+
+ <br/>
+
+ # :pencil2: 공부 내용
+
+## 자바
+<a href="https://github.com/wakebro/javabasic">깃허브</a>
+- 자바
+- SQL 
+- 백준 문제
+- JSP 웹 프로그래밍
+
+## Spring
+<a href="https://github.com/wakebro/spring_practice">깃허브</a>
+- 스프링 웹 프로그래밍
+- Rest, ajax
+- 이미지 파일 업로드
+- 스프링 시큐리티
+- AOP
+- 결제 모듈
+
+## 안드로이드
+<a href="https://github.com/wakebro/android_practice">깃허브</a>
+- 레이아웃
+- ajax

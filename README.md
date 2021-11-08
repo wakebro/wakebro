@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 - SQL 
 - 백준 문제
 - JSP 웹 프로그래밍
+- 자료구조
 
 ## Spring
 <a href="https://github.com/wakebro/spring_practice">깃허브</a>

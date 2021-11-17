@@ -91,3 +91,7 @@ Here are some ideas to get you started:
 ## React
 <a href="https://github.com/wakebro/react_practice">깃허브</a>
 - 환경설정
+
+## 파이썬
+<a href="https://github.com/wakebro/practice_python">깃허브</a>
+- 웹 로직 기초
